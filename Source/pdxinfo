@@ -1,0 +1,6 @@
+name=Playdate-VSCode-Template
+author=Loughlin McSweeney
+description=A simple jump off point for your next 1-bit masterpiece.
+bundleID=com.developer.package
+version=0.0.1
+buildNumber=1
