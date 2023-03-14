@@ -1,4 +1,4 @@
-# playdate-vscode-template-macos
+# playdate-vscode-build-macos
  Playdate VSCode Template for MacOS.  Just a simple starting point for your project.  You can easily build and run your project in the Playdate simulator with a single key stroke.
 
 <img src="https://i.imgur.com/f6eIbi7.gif" width="400" height="240" />
